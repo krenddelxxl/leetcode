@@ -1,0 +1,3 @@
+/mnt/extrad/code/leetcode/palindromenumber/cmake-build-debug/CMakeFiles/palindromenumber.dir
+/mnt/extrad/code/leetcode/palindromenumber/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/extrad/code/leetcode/palindromenumber/cmake-build-debug/CMakeFiles/rebuild_cache.dir
